@@ -1,0 +1,37 @@
+body{
+    background-image: url(love.jpeg);
+    background-position:3800px;     
+    text-align: center;
+    
+}
+p { 
+    margin-top: 50px;
+    font-size: 20px; 
+    background-color:#fcf5f5; 
+    position : absolute; 
+    top : 45% ; 
+    transform : translate(0,-35%);
+    margin-left : 60px ; 
+    right : 80% ;
+    border-radius: 12px ;
+    border : 1px solid white ;
+    
+    
+}
+table, th, td {
+    border: 1px solid black;
+    background: rgb(116, 0, 0);
+    color :white ;
+  }
+#Bok{
+    margin-top: 75px;
+    font-size: 20px; 
+    background-color:#fcf5f5; 
+    position : absolute; 
+    top : 35% ; 
+    transform : translate(0,-35%);
+    margin-right : 30px ; 
+    left : 80% ;
+    border-radius: 12px ;
+    border : 1px solid white ;
+}
